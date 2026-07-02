@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 80" role="img" aria-label="Boom Boom Locksmith logo">
+  <!-- padlock shackle -->
+  <path d="M17 36 v-10 a12 12 0 0 1 24 0 v10" fill="none" stroke="#1e3a8a" stroke-width="7" stroke-linecap="round"/>
+  <!-- padlock body -->
+  <rect x="9" y="36" width="40" height="34" rx="7" fill="#1e3a8a"/>
+  <!-- keyhole -->
+  <circle cx="29" cy="49" r="5.5" fill="#facc15"/>
+  <rect x="26" y="52" width="6" height="11" rx="3" fill="#facc15"/>
+  <!-- burst spark accents -->
+  <g stroke="#facc15" stroke-width="3" stroke-linecap="round">
+    <line x1="52" y1="20" x2="58" y2="14"/>
+    <line x1="57" y1="30" x2="65" y2="28"/>
+  </g>
+  <!-- wordmark -->
+  <text x="66" y="44" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="24" fill="#1e3a8a">BOOM BOOM</text>
+  <text x="67" y="66" font-family="Arial, sans-serif" font-weight="700" font-size="14" letter-spacing="6.5" fill="#ca8a04">LOCKSMITH</text>
+</svg>
